@@ -1,0 +1,5 @@
+/.next
+/node_modules
+.editorconfig
+next-env.d.ts
+*.lock
